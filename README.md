@@ -3,7 +3,7 @@
 > **Under construction:** this repository is being prepared for release.
 
 This repository contains the code for the SPIE conference paper *Cross-Modal
-Knowledge Transfer for SAR Target Recognition Using Optical Vision Foundation
+Learning for SAR Target Recognition Using Optical Vision Foundation
 Models*. 
 
 The project studies how electro-optical (EO) vision foundation models
