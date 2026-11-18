@@ -217,13 +217,16 @@ The scripts do not save model checkpoints.
 To cite the paper, use:
 
 ```bibtex
-@misc{hirsch2026crossmodal,
-  title         = {Cross-modal learning for SAR target recognition using optical vision foundation models},
-  author        = {Lucas Hirsch and James R. Hopgood and Javid Khan and Yoann Altmann and Mike E. Davies},
-  year          = {2026},
-  eprint        = {2609.07753},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2609.07753}
+@inproceedings{hirsch2026crossmodal,
+author = {Lucas Hirsch and James R. Hopgood and Javid Khan and Yoann Altmann and Mike E. Davies},
+title = {{Cross-modal learning for SAR target recognition using optical vision foundation models}},
+volume = {14290},
+booktitle = {Artificial Intelligence for Security and Defence Applications IV},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+keywords = {Synthetic Aperture Radar (SAR), Automatic Target Recognition (ATR), Cross-Modal Learning, Domain Adaptation, Foundation Models, Transfer learning, Electro-Optical (EO) Imagery, Multi-modal learning},
+year = {2026},
+doi = {10.1117/12.3118995},
+URL = {https://doi.org/10.1117/12.3118995}
 }
 ```
